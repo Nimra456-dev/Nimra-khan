@@ -1,6 +1,26 @@
 # Nimra-khan
 
 - # Hi there, I'm Nimra Khan! 👋
+### 🐍 Working with Python:
+- Mastering basic Python syntax and data structures.
+- Implementing intermediate concepts like decorators, generators, and context managers.
+- Error handling and debugging techniques (e.g., try-except blocks, logging).
+- Understanding data structures: Lists, Tuples, Dictionaries, Sets, and Strings.
+- Implementing algorithms like sorting, searching, and recursion.
+- Working with external libraries for data manipulation and automation.
+
+- ### 📘 Object-Oriented Programming (OOP):
+- Understanding OOP principles: Encapsulation, Inheritance, Polymorphism, and Abstraction.
+- Designing classes and objects to model real-world scenarios.
+- Implementing design patterns for scalable and maintainable code.
+- Working with complex OOP concepts like mixins and multiple inheritance.
+
+### 🗄️ Working with Databases:
+- Connecting Python applications with relational databases using SQLAlchemy.
+- Performing CRUD operations across different databases.
+- Using ORM for seamless database interactions.
+- Writing optimized SQL queries for efficient data retrieval.
+
 🌐 **Web Scraping Enthusiast | Selenium Expert**  
 🔭 **Currently working on data scraping projects**  
 💻 **Skilled in Python, Selenium, and Web Automation**  
@@ -35,7 +55,6 @@
 - Performing database backups, migrations, and optimizations.
 
 ---
-
 ### 🚀 Featured Projects:
 - [Web Scraper using Selenium](https://github.com/NimraKhan/WebScraper)  
 - [Data Analysis Tool](https://github.com/NimraKhan/DataAnalysis)  
@@ -55,6 +74,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimraKhan&layout=compact&theme=radical)  
 
 ---
+### 📚 Learning and Growth:
+- Currently learning Advanced FastAPI techniques.
+- Exploring AI and Machine Learning with Python.
 
  
 
