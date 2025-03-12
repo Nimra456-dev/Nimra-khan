@@ -54,9 +54,9 @@
 - Using pgAdmin for database administration and query execution.
 - Performing database backups, migrations, and optimizations.
 
+--- 
 
-
-🛠️ AI-Startup-Advisor (FastAPI Base Project) 
+---🛠️ AI-Startup-Advisor (FastAPI Base Project) ---
 🔹 Description: AI-Startup-Advisor is a FastAPI-based project designed to help startups analyze data, predict growth, and automate workflows using AI-powered insights.
 🔹 Tech Stack: FastAPI, PostgreSQL, SQLAlchemy, Selenium, BeautifulSoup, ETL Pipelines.
 🔹 Key Features:
@@ -65,6 +65,7 @@
 ✅ ETL Pipelines (Efficient data extraction, transformation & loading).
 ✅ FastAPI Backend (REST API for data processing & analytics).
 ✅ PostgreSQL Database (Structured data storage & retrieval).
+
 ---
 ### 🚀 Featured Projects:
 - [Web Scraper using Selenium](https://github.com/NimraKhan/WebScraper)  
